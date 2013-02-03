@@ -1,0 +1,77 @@
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/case/case-internships/!svn/ver/2493/MSc/EvgenyBaranov/TestHunterApp/trunk/src/it/unibz/testhunter/action
+END
+ActionListProjects.java
+K 25
+svn:wc:ra_dav:version-url
+V 129
+/case/case-internships/!svn/ver/2484/MSc/EvgenyBaranov/TestHunterApp/trunk/src/it/unibz/testhunter/action/ActionListProjects.java
+END
+ActionAddProject.java
+K 25
+svn:wc:ra_dav:version-url
+V 127
+/case/case-internships/!svn/ver/2404/MSc/EvgenyBaranov/TestHunterApp/trunk/src/it/unibz/testhunter/action/ActionAddProject.java
+END
+ActionTestResults.java
+K 25
+svn:wc:ra_dav:version-url
+V 128
+/case/case-internships/!svn/ver/3199/MSc/EvgenyBaranov/TestHunterApp/trunk/src/it/unibz/testhunter/action/ActionTestResults.java
+END
+ActionListPlugins.java
+K 25
+svn:wc:ra_dav:version-url
+V 128
+/case/case-internships/!svn/ver/2404/MSc/EvgenyBaranov/TestHunterApp/trunk/src/it/unibz/testhunter/action/ActionListPlugins.java
+END
+ICommandAction.java
+K 25
+svn:wc:ra_dav:version-url
+V 125
+/case/case-internships/!svn/ver/2404/MSc/EvgenyBaranov/TestHunterApp/trunk/src/it/unibz/testhunter/action/ICommandAction.java
+END
+ActionCheckProject.java
+K 25
+svn:wc:ra_dav:version-url
+V 129
+/case/case-internships/!svn/ver/2484/MSc/EvgenyBaranov/TestHunterApp/trunk/src/it/unibz/testhunter/action/ActionCheckProject.java
+END
+ActionHelp.java
+K 25
+svn:wc:ra_dav:version-url
+V 121
+/case/case-internships/!svn/ver/2404/MSc/EvgenyBaranov/TestHunterApp/trunk/src/it/unibz/testhunter/action/ActionHelp.java
+END
+ActionCommandHelp.java
+K 25
+svn:wc:ra_dav:version-url
+V 128
+/case/case-internships/!svn/ver/2404/MSc/EvgenyBaranov/TestHunterApp/trunk/src/it/unibz/testhunter/action/ActionCommandHelp.java
+END
+ActionPrioritize.java
+K 25
+svn:wc:ra_dav:version-url
+V 127
+/case/case-internships/!svn/ver/3199/MSc/EvgenyBaranov/TestHunterApp/trunk/src/it/unibz/testhunter/action/ActionPrioritize.java
+END
+ActionCreateTestSequence.java
+K 25
+svn:wc:ra_dav:version-url
+V 135
+/case/case-internships/!svn/ver/3200/MSc/EvgenyBaranov/TestHunterApp/trunk/src/it/unibz/testhunter/action/ActionCreateTestSequence.java
+END
+ActionProject.java
+K 25
+svn:wc:ra_dav:version-url
+V 124
+/case/case-internships/!svn/ver/3199/MSc/EvgenyBaranov/TestHunterApp/trunk/src/it/unibz/testhunter/action/ActionProject.java
+END
+ActionComputePtf.java
+K 25
+svn:wc:ra_dav:version-url
+V 127
+/case/case-internships/!svn/ver/3198/MSc/EvgenyBaranov/TestHunterApp/trunk/src/it/unibz/testhunter/action/ActionComputePtf.java
+END

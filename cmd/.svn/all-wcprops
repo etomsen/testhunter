@@ -1,0 +1,65 @@
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/case/case-internships/!svn/ver/2484/MSc/EvgenyBaranov/TestHunterApp/trunk/src/it/unibz/testhunter/cmd
+END
+CmdListCommands.java
+K 25
+svn:wc:ra_dav:version-url
+V 123
+/case/case-internships/!svn/ver/2419/MSc/EvgenyBaranov/TestHunterApp/trunk/src/it/unibz/testhunter/cmd/CmdListCommands.java
+END
+CmdProject.java
+K 25
+svn:wc:ra_dav:version-url
+V 118
+/case/case-internships/!svn/ver/2484/MSc/EvgenyBaranov/TestHunterApp/trunk/src/it/unibz/testhunter/cmd/CmdProject.java
+END
+CmdCheckProject.java
+K 25
+svn:wc:ra_dav:version-url
+V 123
+/case/case-internships/!svn/ver/2404/MSc/EvgenyBaranov/TestHunterApp/trunk/src/it/unibz/testhunter/cmd/CmdCheckProject.java
+END
+IAcionExecuteSink.java
+K 25
+svn:wc:ra_dav:version-url
+V 125
+/case/case-internships/!svn/ver/3199/MSc/EvgenyBaranov/TestHunterApp/trunk/src/it/unibz/testhunter/cmd/IAcionExecuteSink.java
+END
+Command.java
+K 25
+svn:wc:ra_dav:version-url
+V 115
+/case/case-internships/!svn/ver/3199/MSc/EvgenyBaranov/TestHunterApp/trunk/src/it/unibz/testhunter/cmd/Command.java
+END
+CmdTestResults.java
+K 25
+svn:wc:ra_dav:version-url
+V 122
+/case/case-internships/!svn/ver/3199/MSc/EvgenyBaranov/TestHunterApp/trunk/src/it/unibz/testhunter/cmd/CmdTestResults.java
+END
+CmdCreateTestSequence.java
+K 25
+svn:wc:ra_dav:version-url
+V 129
+/case/case-internships/!svn/ver/3200/MSc/EvgenyBaranov/TestHunterApp/trunk/src/it/unibz/testhunter/cmd/CmdCreateTestSequence.java
+END
+CmdListPlugins.java
+K 25
+svn:wc:ra_dav:version-url
+V 122
+/case/case-internships/!svn/ver/2404/MSc/EvgenyBaranov/TestHunterApp/trunk/src/it/unibz/testhunter/cmd/CmdListPlugins.java
+END
+CmdAddProject.java
+K 25
+svn:wc:ra_dav:version-url
+V 121
+/case/case-internships/!svn/ver/2404/MSc/EvgenyBaranov/TestHunterApp/trunk/src/it/unibz/testhunter/cmd/CmdAddProject.java
+END
+CmdListProjects.java
+K 25
+svn:wc:ra_dav:version-url
+V 123
+/case/case-internships/!svn/ver/2404/MSc/EvgenyBaranov/TestHunterApp/trunk/src/it/unibz/testhunter/cmd/CmdListProjects.java
+END

@@ -1,0 +1,65 @@
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/case/case-internships/!svn/ver/2493/MSc/EvgenyBaranov/TestHunterApp/trunk/src/it/unibz/testhunter/db
+END
+BuildJob.java
+K 25
+svn:wc:ra_dav:version-url
+V 115
+/case/case-internships/!svn/ver/2484/MSc/EvgenyBaranov/TestHunterApp/trunk/src/it/unibz/testhunter/db/BuildJob.java
+END
+TestsResult.java
+K 25
+svn:wc:ra_dav:version-url
+V 118
+/case/case-internships/!svn/ver/3199/MSc/EvgenyBaranov/TestHunterApp/trunk/src/it/unibz/testhunter/db/TestsResult.java
+END
+Project.java
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/case/case-internships/!svn/ver/2484/MSc/EvgenyBaranov/TestHunterApp/trunk/src/it/unibz/testhunter/db/Project.java
+END
+TestInstance.java
+K 25
+svn:wc:ra_dav:version-url
+V 119
+/case/case-internships/!svn/ver/2484/MSc/EvgenyBaranov/TestHunterApp/trunk/src/it/unibz/testhunter/db/TestInstance.java
+END
+Configuration.properties
+K 25
+svn:wc:ra_dav:version-url
+V 126
+/case/case-internships/!svn/ver/2484/MSc/EvgenyBaranov/TestHunterApp/trunk/src/it/unibz/testhunter/db/Configuration.properties
+END
+SequenceItem.java
+K 25
+svn:wc:ra_dav:version-url
+V 119
+/case/case-internships/!svn/ver/2484/MSc/EvgenyBaranov/TestHunterApp/trunk/src/it/unibz/testhunter/db/SequenceItem.java
+END
+Test.java
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/case/case-internships/!svn/ver/2484/MSc/EvgenyBaranov/TestHunterApp/trunk/src/it/unibz/testhunter/db/Test.java
+END
+Status.java
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/case/case-internships/!svn/ver/2484/MSc/EvgenyBaranov/TestHunterApp/trunk/src/it/unibz/testhunter/db/Status.java
+END
+TestsResultItem.java
+K 25
+svn:wc:ra_dav:version-url
+V 122
+/case/case-internships/!svn/ver/2484/MSc/EvgenyBaranov/TestHunterApp/trunk/src/it/unibz/testhunter/db/TestsResultItem.java
+END
+Sequence.java
+K 25
+svn:wc:ra_dav:version-url
+V 115
+/case/case-internships/!svn/ver/3199/MSc/EvgenyBaranov/TestHunterApp/trunk/src/it/unibz/testhunter/db/Sequence.java
+END

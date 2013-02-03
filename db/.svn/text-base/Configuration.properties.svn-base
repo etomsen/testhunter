@@ -1,0 +1,8 @@
+# TestHunter ResourceBundle properties file
+host=localhost
+port=5432
+name=testhunter
+user=admin
+password=admin
+postgresql.driver=org.postgresql.Driver
+postgresql.url=jdbc:postgresql:
