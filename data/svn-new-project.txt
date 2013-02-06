@@ -1,0 +1,3 @@
+svn import TestHunterApp/ https://babbage.inf.unibz.it/case/case-internships/MSc/EvgenyBaranov/TestHunterApp/trunk -m 'Initial import'
+svn delete -m "Delete old brunch" https://babbage.inf.unibz.it/case/case-internships/MSc/EvgenyBaranov/PluginHudson/
+

@@ -1,0 +1,1 @@
+SELECT test.package, test.class, test.name, test_status.name, count(*), min(test_instance.duration_ms), max(duration_ms), avg(duration_ms) FROM test_instance INNER JOIN test_status ON (test_instance.test_status = test_status.id) INNER JOIN test ON (test_instance.test = test.id) GROUP BY test.package, test.class, test.name, test_status.name;
